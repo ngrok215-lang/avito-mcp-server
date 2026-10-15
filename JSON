@@ -1,0 +1,10 @@
+{
+  "name": "avito-mcp-server",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npx -y avito-mcp@2"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
